@@ -32,3 +32,5 @@ If you are developing a production application, we recommend using TypeScript an
     cd calculatrice
     npm install    
     npm run dev  
+
+# node v22.14.0
